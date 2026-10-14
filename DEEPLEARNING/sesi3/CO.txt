@@ -1,0 +1,32 @@
+HL 26-2 | WY 26-1
+
+SESSION 3
+
+Convolutional Neural Network
+[] ReadImage
+[] Normalisasi
+[] Split Data
+[] Pengantar & Intuisi Spasial
+	[] Keterbatasan MLP
+	[] Definisi CNN
+[] Convolution Layer
+	[] Definisi Convolution Layer
+	[] Kernel / Filter (Matriks Bobot & Ekstraksi Fitur)
+	[] Kernel Size
+	[] Stride
+	[] Operasi Konvolusi & Penghitungan Dimensi Output
+	[] Feature Map
+	[] Fungsi Aktivasi Non-Linear (ReLU)
+[] Pooling Layer
+	[] Definisi & Tujuan Pooling
+	[] Max Pooling
+	[] Average Pooling
+	[] Min Pooling
+[] Regularization Layer
+	[] Batch Normalization (Stabilitas Distribusi Aktivasi)
+	[] Dropout (Pencegahan Overfitting)
+[] Classifier Head
+	[] Flatten Layer
+	[] Fully Connected Layer
+	[] Output Layer (Sigmoid vs Softmax)
+[] DCNN

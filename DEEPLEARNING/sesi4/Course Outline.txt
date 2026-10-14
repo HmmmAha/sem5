@@ -1,0 +1,12 @@
+WY26-1 | Deep Learning Sesi 4
+============================================================
+[ ] Wifi Attendance
+[ ] Login lab.slc.net
+
+*Botol minum tolong taro dibawah
+
+Kita mulai menit 25
+
+
+https://app.notion.com/p/Session-4-Neural-Word-Embeddings-3d40982c1e2981baa4e6e507258f052a?source=copy_link
+[ ] Neural Embeddings

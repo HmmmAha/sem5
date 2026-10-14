@@ -1,0 +1,8 @@
+HL26-2 | WY 26-1
+
+RECURRENT NEURAL NETWORK
+
+[] RNN
+	- Salah satu jenis arsitektur Artificial Neural Network yang dirancang khusus untuk proses data berurutan
+[] Attention Mechanism
+	- Teknik di deeplearning yang memungkinkan model untuk secara dinamis focus pada bagian bagian tertentu dari input yang paling relevan saat memproses atau menghasilkan suatu kata/data.
